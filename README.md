@@ -1,2 +1,2 @@
 # miu-dynamics
-Yes
+Currently in development.
